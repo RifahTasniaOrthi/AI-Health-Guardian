@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-AI-red)
+![Status](https://img.shields.io/badge/Status-Demo%20Ready-brightgreen)
+
 # 🧠 AI Health Guardian 🚀
 
 **Offline AI-Powered Health Scanner for Early Disease Detection**  
