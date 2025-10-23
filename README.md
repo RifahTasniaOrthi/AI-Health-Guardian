@@ -27,6 +27,21 @@ AI Health Guardian is an *offline, multimodal AI health assessment system* that 
 > ⚠️ Demo prototype — not medically accurate yet
 
 ---
+## 🖼️ MVP Demo
+
+![Dashboard](assets/screenshots/demo1.png)
+![Health Scan](assets/screenshots/demo2.png)
+
+> Real-time offline health scanning: anemia, heart rate, BP, cough analysis, stress levels.
+## ⚡ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| Offline & Lightweight | Works without internet, anywhere |
+| Multimodal AI Scan | Vision + Audio + Quiz |
+| Early Health Detection | Anemia, Heart Rate, Stress, Cough Analysis |
+| Expandable | Remote monitoring & future sensors |
+| Future Vision | Fully accurate, global AI medical assistant |
 
 ## ⚡ Future Vision (Elite & Global)
 
