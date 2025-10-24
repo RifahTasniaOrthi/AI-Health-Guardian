@@ -1,44 +1,35 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Health Scan | AI Health Guardian</title>
-    <style>
-        body { font-family: Arial; background:#e8f7ee; margin:0; text-align:center; }
-        header { background:#2d6a4f; padding:20px; color:white; }
-        button {
-            padding:15px 25px;
-            font-size:18px;
-            background:#2d6a4f;
-            color:white;
-            border:none;
-            border-radius:10px;
-            margin-top:30px;
-            cursor:pointer;
-        }
-        img {
-            margin-top:25px;
-            width:70%;
-            max-width:400px;
-            border-radius:12px;
-            box-shadow:0 4px 10px rgba(0,0,0,0.2);
-        }
-    </style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI Health Guardian — Health Scan</title>
+  <style>
+    body { font-family: Inter, Arial, sans-serif; max-width:900px; margin:40px auto; padding:0 20px; color:#111; }
+    header { display:flex; justify-content:space-between; align-items:center; }
+    h1 { margin:0; font-size:32px; color:#0b4949; }
+    a.button { padding:10px 20px; background:#0b4949; color:#fff; border-radius:8px; text-decoration:none; margin-top:20px; display:inline-block; }
+    footer { margin-top:36px; color:#666; font-size:14px; border-top:1px solid #eee; padding-top:18px; }
+  </style>
 </head>
 <body>
+  <header>
+    <h1>🩺 Health Scan</h1>
+  </header>
 
-<header>
-    <h1>AI Health Scan</h1>
-</header>
+  <p>This page simulates the offline AI health scan (demo only).</p>
+  <ul>
+    <li>Anemia detection</li>
+    <li>Heart rate & BP estimation</li>
+    <li>Stress & emotion analysis</li>
+    <li>Nutrition & lifestyle assessment</li>
+  </ul>
 
-<a href="index.html" style="color:white;text-decoration:none;">
-    🔙 Back to Home
-</a>
+  <a class="button" href="index.html">← Back to Home</a>
 
-<button>Start Scan</button>
-<p>📷 Camera scan & vitals extraction coming soon...</p>
-
-<img src="assets/screenshots/demo1.jpeg" alt="Demo">
-
+  <footer>
+    <div>⚠️ This is an educational demo. Not medical advice.</div>
+    <div>© Rifah Tasnia Orthi</div>
+  </footer>
 </body>
 </html>
