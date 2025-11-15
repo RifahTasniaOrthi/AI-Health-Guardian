@@ -88,9 +88,9 @@ AI-Health-Guardian/ │ ├── app/ │   ├── offline_health_guardian_d
 ## 🔗 Connect
 
 - **Email:** tasnia.r.rifah@gmail.com  
-- **LinkedIn:** Coming Soon  
+- **LinkedIn:** https://www.linkedin.com/in/rifah-tasnia-orthi/  
 - **Kaggle:** Coming Soon  
-- **Website:** Coming Soon  
+- **Website:** https://rifahtasniaorthi.github.io/AI-Health-Guardian/ 
 
 ---
 
