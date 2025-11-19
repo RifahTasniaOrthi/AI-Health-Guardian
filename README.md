@@ -14,7 +14,7 @@
 [![Tech Stack](https://img.shields.io/badge/tech-Python%2C%20AI%2C%20ML%2C%20Streamlit-orange)]()  
 
 > **Founder & Visionary:** Rifah Tasnia Orthi  
-> *Courage and obsession can beat anything*  
+> *Courage and obsession can beat anything and no one has the dare to stop me*  
 
 **Mission:** Empowering humanity with **AI-driven health insights**, offline, real-time, accessible everywhere.  
 **Vision:** Revolutionize healthcare — free, global, ultra-accurate, and accessible even in space or under the sea 🌍💫
@@ -33,12 +33,15 @@ AI Health Guardian is an *offline, multimodal AI health assessment system* that 
 > ⚠️ Demo prototype — not medically accurate yet
 
 ---
-## 🖼️ MVP Demo
 
-![Dashboard](assets/screenshots/demo1.png)
-![Health Scan](assets/screenshots/demo2.png)
+## 🖥️ MVP Demo
+Check out the live demo here: [Live Demo on GitHub Pages](https://rifahtasniaorthi.github.io/AI-Health-Guardian/)
+
+- Dashboard → [Dashboard](https://rifahtasniaorthi.github.io/AI-Health-Guardian/dashboard.html)
+- Health Scan → [Health Scan](https://rifahtasniaorthi.github.io/AI-Health-Guardian/health_scan.html)
 
 > Real-time offline health scanning: anemia, heart rate, BP, cough analysis, stress levels.
+
 ## ⚡ Key Features
 
 | Feature | Description |
@@ -58,7 +61,7 @@ AI Health Guardian is an *offline, multimodal AI health assessment system* that 
 - Enables *instant, comprehensive health guidance* for humanity  
 - *Global recognition & adoption*: NASA, SpaceX, UN, UNICEF, hospitals, schools, and households  
 
-> “Revolutionizing healthcare, one courageous step at a time.”
+> “Courage and obsession can beat anything and no one has the dare to stop me.” 🚀
 
 ---
 
@@ -73,6 +76,7 @@ AI Health Guardian is an *offline, multimodal AI health assessment system* that 
 
 ## 📂 Project Structure
 AI-Health-Guardian/ │ ├── app/ │   ├── offline_health_guardian_demo.py │   ├── models/ │   ├── utils/ │   └── requirements.txt │ ├── assets/ │   ├── screenshots/ │   ├── demo_videos/ │   └── icons/ │ ├── data/ │   └── sample_inputs/ │ ├── docs/ │   ├── pitch_deck.pdf │   └── summary.pdf │ ├── LICENSE ├── README.md └── .gitignore
+
 ---
 
 ## 🏆 Recognition & Goals
@@ -88,9 +92,8 @@ AI-Health-Guardian/ │ ├── app/ │   ├── offline_health_guardian_d
 ## 🔗 Connect
 
 - **Email:** tasnia.r.rifah@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/rifah-tasnia-orthi/  
-- **Kaggle:** Coming Soon  
-- **Website:** https://rifahtasniaorthi.github.io/AI-Health-Guardian/ 
+- **LinkedIn:** https://www.linkedin.com/in/rifah-tasnia-93b4472ab  
+- **Website:**  https://rifahtasniaorthi.github.io/AI-Health-Guardian/  
 
 ---
 
