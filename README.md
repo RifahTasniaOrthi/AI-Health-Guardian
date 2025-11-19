@@ -1,9 +1,18 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-AI-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-AI-red)
+![Status](https://img.shields.io/badge/Status-Demo%20Ready-brightgreen)
+
 🧠 AI Health Guardian
 
 Offline Multimodal Health Scanner — Built for Humanity, Built for the Future
 
+[![Status](https://img.shields.io/badge/status-Prototype-yellow)](https://github.com/RifahTasniaOrthi/AI-Health-Guardian)  
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
+[![Vision](https://img.shields.io/badge/vision-Global%20Impact-blue)]()  
+[![Tech Stack](https://img.shields.io/badge/tech-Python%2C%20AI%2C%20ML%2C%20Streamlit-orange)]()  
     
-
 
 ---
 
@@ -125,10 +134,10 @@ AI-Health-Guardian/
 Uploaded files now included in your repo:
 
 📄 Pitch Deck (11 slides)
-C:/AI-Health-Guardian/docs/pitch_deck.pdf
+'C:/AI-Health-Guardian/docs/pitch_deck.pdf'
 
 📄 Summary / Whitepaper (8 pages)
-C:/AI-Health-Guardian/docs/summary.pdf
+'C:/AI-Health-Guardian/docs/summary.pdf'
 
 These give your project credibility, depth, and investor-level clarity.
 
