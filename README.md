@@ -78,7 +78,7 @@ Main User Button (only one):
 👉 Health Scan (Streamlit UI)
 
 This links to:
-app/web/index.html → launches your fully working Streamlit health scan.
+C:/AI-Health-Guardian/app/web/index.html → launches your fully working Streamlit health scan.
 
 
 ---
@@ -113,7 +113,7 @@ AI-Health-Guardian/
         ├── health_scan.html
         ├── assets/
         │   ├── icons/
-        │   │    └── founder.webp   ← Your founder photo
+        │   │    └── founder.webp   ← founder photo
         │   ├── screenshots/
         │   └── demo_videos/
 
@@ -125,10 +125,10 @@ AI-Health-Guardian/
 Uploaded files now included in your repo:
 
 📄 Pitch Deck (11 slides)
-/docs/pitch_deck.pdf
+C:/AI-Health-Guardian/docs/pitch_deck.pdf
 
 📄 Summary / Whitepaper (8 pages)
-/docs/summary.pdf
+C:/AI-Health-Guardian/docs/summary.pdf
 
 These give your project credibility, depth, and investor-level clarity.
 
